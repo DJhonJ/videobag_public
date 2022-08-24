@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoBag.UI", "VideoBag.UI\VideoBag.UI.csproj", "{2CF45BD0-7B98-4C96-9657-E2F01B6F5639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoBag.Domain", "VideoBag.Domain\VideoBag.Domain.csproj", "{9BF790B4-A3CF-4539-B64F-1CC446D929BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CF45BD0-7B98-4C96-9657-E2F01B6F5639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CF45BD0-7B98-4C96-9657-E2F01B6F5639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CF45BD0-7B98-4C96-9657-E2F01B6F5639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CF45BD0-7B98-4C96-9657-E2F01B6F5639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF790B4-A3CF-4539-B64F-1CC446D929BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF790B4-A3CF-4539-B64F-1CC446D929BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF790B4-A3CF-4539-B64F-1CC446D929BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF790B4-A3CF-4539-B64F-1CC446D929BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {867B76BA-24F4-4C46-9C44-469C4BE9E185}
+	EndGlobalSection
+EndGlobal
